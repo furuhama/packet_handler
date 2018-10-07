@@ -1,0 +1,9 @@
+[package]
+name = "packet_handler"
+version = "0.1.0"
+authors = ["furuhama <furuhama@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+pnet = "*"
+ipnetwork = "*"
